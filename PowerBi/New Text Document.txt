@@ -1,0 +1,33 @@
+loading dataset, text extract, column split (delimiter) ,  delete rows , null values empty rows ,
+text-operations(clean,capitalize,trim), data operations ,
+merging columns , pie chart , show column quality in the view seection , appending queries(adding more entries from other table)
+pivot , connecting relationships , unpivot , slicer , filtering options in diagrams , editing canvaas page 
+drill thorgh (in diagrams ))
+create new column , conditional column
+create new column from examples 
+sort by column 
+
+bookmark 
+buttons 
+drilthrough buttong 
+forecasting anomalies 
+themes 
+tooltipps 
+
+DAX query 
+DAX measure
+DAX measure table (organizing all measures in its table in report view)
+sumx , averagex functions (iterative functions)
+
+Related function
+count fnc 
+countrows fnc
+countblank
+ALL fnc  = CALCULATE( Revenue Volume (California, Filter), ALL(sfore_cities))
+ALLSELECTED: Removes filters from all columns or tables except for those that have been explicitly selected or interacted with in the report.
+The ALLEXCEPT function in DAX is used to remove all filters from a table, 
+
+date
+ytd function (runing sum )
+format
+calender function
